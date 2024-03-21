@@ -2,7 +2,7 @@ title:   Métodos de Desenvolvimento de Software
 description: > # this means to ignore newlines until "baseurl:"
   Métodos de Desenvolvimento de Software (MDS)
 permalink: ':title/'
-baseurl: "/projetos" # the subpath of your site, e.g. /blog
+baseurl:  # the subpath of your site, e.g. /blog
 url: "https://unb-mds.github.io/portfolio-MDS/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings

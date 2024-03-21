@@ -1,1 +1,1 @@
-Sitemap: https://unb-mds.github.io/portfolio-MDS//projetos/sitemap.xml
+Sitemap: https://unb-mds.github.io/portfolio-MDS//sitemap.xml
