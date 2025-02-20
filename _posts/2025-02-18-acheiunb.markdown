@@ -1,0 +1,70 @@
+---
+layout: post
+title: 2024.1 - Achei UnB
+date: 2025-02-18 13:32:20 +0700
+description: Catraca Inteligente para acesso em eventos
+img: acheiunb.png # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [python, django, vue, postgresql, docker, msal, cloudinary, celery]
+comments: false
+---
+
+# O Achei UnB
+
+**Descrição:** AcheiUnB é um projeto desenvolvido para facilitar a vida dos estudantes da Universidade de Brasília (UnB) na busca e recuperação de itens perdidos. A plataforma permite que os alunos registrem e encontrem objetos, facilitando o contato entre quem perdeu e encontrou o item. O objetivo é reduzir a dependência de grupos de mensagens e proporcionar um sistema mais organizado e acessível para achados e perdidos.
+
+Com apenas alguns cliques, o aluno poderá registrar tanto itens achados quanto itens perdidos. Além disso, o sistema de match realizará uma varredura em todos os registros, e enviará um e-mail ao aluno ao encontrar um registro de item achado que seja semelhante a um item perdido registrado pelo aluno.
+
+
+AcheiUnB é um software livre, disponível sob a licença MIT.
+
+[**Repositório**](https://github.com/unb-mds/2024-2-AcheiUnB)
+
+**Habilidades necessárias:**
+
+- Python (Django)
+- JavaScript (Vue.js)
+- SQL (PostgreSQL)
+- Docker (Docker Compose)
+- Celery (Redis, Celery Beat)
+
+
+**Tamanho do projeto:** Médio/Grande
+
+**Teste o Software:** [acheiunb.com.br](acheiunb.com.br)
+
+
+## 📚 Documentação
+
+Acesse a documentação completa do projeto [aqui](https://unb-mds.github.io/2024-2-AcheiUnB/).
+
+## 📎 Extra
+
+### Story Map e Activity Flow
+
+Para acessar o Story Map e Activity Flow, [clique aqui](https://miro.com/app/board/uXjVLKTcaY4=/?share_link_id=775702257830).
+
+### Arquitetura
+
+A descrição da arquitetura do projeto pode ser encontrada [aqui](https://www.figma.com/board/ai5E0akKD2yDr9FfnW9k4l/Prot%C3%B3tipo-de-Arquitetura?node-id=0-1&t=19ErTsypFap1Nvl9-1).
+
+### Protótipo
+
+O protótipo da plataforma está disponível [aqui](https://www.figma.com/proto/balBSne5eGu1mDpKqEW7ey/Prot%C3%B3tipo-AcheiUnb?node-id=510-209&node-type=canvas&t=otBLAgrQGhcfPYhL-1&scaling=scale-down&content-scaling=fixed&page-id=510%3A207&start)
+
+
+# Estrelando:
+
+[Ana Elisa Marques](https://github.com/anaelisaramos) como: "Rainha do Vue.js 👑"
+
+[Davi Camilo Menezes](https://github.com/DaviCamilo23) como: "Guardião do Front-end e Documentações 💻"
+
+[Euller Júlio da Silva](https://github.com/potatoyz908) como: "Maior Commitador das Galáxias 🚀"
+
+[Leonardo Ramiro Alves de Oliveira](https://github.com/leoramiroo) como: "Soberano do Back-end 🛡️"
+
+[Pedro Everton de Paula](https://github.com/pedroeverton217) como: "Marido da Pipeline 🔧"
+
+[Pedro Henrique Martins Silva](https://github.com/314dro) como: "Senhor Full-Stack e Pai do Miro 💡"
+
+[Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) como: "Mago do Front-end 🧙"
