@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024.1 - Achei UnB
+title: 2024.2 - Achei UnB
 date: 2025-02-18 13:32:20 +0700
 description: Catraca Inteligente para acesso em eventos
 img: acheiunb.png # Add image post (optional)
@@ -53,7 +53,7 @@ A descrição da arquitetura do projeto pode ser encontrada [aqui](https://www.f
 O protótipo da plataforma está disponível [aqui](https://www.figma.com/proto/balBSne5eGu1mDpKqEW7ey/Prot%C3%B3tipo-AcheiUnb?node-id=510-209&node-type=canvas&t=otBLAgrQGhcfPYhL-1&scaling=scale-down&content-scaling=fixed&page-id=510%3A207&start)
 
 
-# Estrelando:
+## Estrelando:
 
 [Ana Elisa Marques](https://github.com/anaelisaramos) como: "Rainha do Vue.js 👑"
 
